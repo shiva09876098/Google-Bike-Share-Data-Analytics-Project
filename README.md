@@ -22,6 +22,7 @@ Design marketing strategies aimed at converting casual riders into annual member
 
 ## Insights
 - Key findings from analysis...
+- view [dashboard](https://public.tableau.com/app/profile/shiva.k6434/viz/dataanalysticscapsoneprojectbikeshareanalysis/Dashboard1)
   
 ## Data Sources
 The dataset used in this project can be accessed via the following link:
