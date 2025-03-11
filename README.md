@@ -17,7 +17,7 @@ Design marketing strategies aimed at converting casual riders into annual member
 
 ## Process Overview
 1. **Microsoft Excel**: Initial data analysis for insights...
-2. **R**: Merged and cleaned data for comprehensive analysis...
+2. **pandas**: Merged and cleaned data for comprehensive analysis...
 3. **Tableau**: Created interactive visualizations...
 
 ## Insights
@@ -31,7 +31,7 @@ The dataset used in this project can be accessed via the following link:
 ## Instructions
 To run the analysis:
 1. Clone the repository.
-2. Open the R scripts in RStudio and run them.
+2. Open the pandas scripts in RStudio and run them.
 3. Open Tableau workbooks to view visualizations.
 
 License This project is licensed under the MIT License - see the LICENSE file for details.
